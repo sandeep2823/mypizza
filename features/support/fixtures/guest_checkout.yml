@@ -1,0 +1,1 @@
+<%= YAML.include('users/random_user.yml') %>

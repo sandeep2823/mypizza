@@ -1,0 +1,2 @@
+<%= YAML.include('support/landing_pages.yml') %>
+<%= YAML.include('customers/big_spender.yml') %>

@@ -1,0 +1,3 @@
+class HeaderSection < BasePage
+
+end

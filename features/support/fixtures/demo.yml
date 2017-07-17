@@ -1,0 +1,15 @@
+---
+demo_billing:
+  :first_name: Jose
+  :last_name: Ours
+  :email: kma@hotmail.com
+  :country: United States
+  :state: Ohio
+  :city: Columbus
+  :address1: 123 Main St.
+  :zip_code: '43215'
+  :phone_number: '6145551212'
+demo_card:
+  :cardholder_name: Jose Ours
+  :card_exp_month: '03'
+  :card_exp_year: '2017'
